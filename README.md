@@ -4,10 +4,10 @@
     
     pygame.init()
     
-    WHITE = (179, 175, 204)     # Not quite white
-    BLACK = (36, 29, 29)        # Not quite black
+    WHITE = (179, 175, 204)     # not quite white
+    BLACK = (36, 29, 29)        # not quite black
     GRAY = (136, 139, 148)
-    RED = (120, 17, 10)         # Not quite red
+    RED = (120, 17, 10)         # not quite red
     
     WIDTH, HEIGHT = 600, 500
     MARGIN = 2
